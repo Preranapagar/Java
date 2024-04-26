@@ -9,3 +9,6 @@
 7. Do While Loop
 8. For Loop
 9. Break Continue Statements
+10. Single Dimensional Array
+11. Multi Dimensional Array
+12. Methods
