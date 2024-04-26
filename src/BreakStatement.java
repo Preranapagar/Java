@@ -6,11 +6,13 @@ public class BreakStatement {
 		for(int i = 1; i <= 10; i++) {
 			
 			if (i==7) {
-				continue;
+				break;
 			}
 			System.out.println(i);
 		}
 
+		//break : break further iterations
+		//continue : skip the iteration and continues
 	}
 
 }
