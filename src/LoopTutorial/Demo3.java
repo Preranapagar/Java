@@ -1,4 +1,4 @@
-package Tutorial;
+package LoopTutorial;
 
 public class Demo3 {
 
