@@ -15,6 +15,8 @@ public class Array {
 		abc[4]=50;
 		
 		System.out.println(abc.length);
+		
+		
 
 	}
 
