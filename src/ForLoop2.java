@@ -6,8 +6,11 @@ public class ForLoop2 {
 		
 		for (int i = 40; i<=60; i++)
 		{	
-			if((i==44)&&())
-			System.out.println(i);
+			if((i!=44)&&(i!=48)&&(i!=56))
+			{
+				System.out.println(i);	
+			}
+			
 		}
 
 	}
