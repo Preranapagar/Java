@@ -51,6 +51,7 @@ public class PrimitiveDatatypes {
 		char key = 'k';
 		System.out.println(key);
 		
+		
 	
 		
 		
