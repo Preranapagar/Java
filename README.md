@@ -1,5 +1,6 @@
 # Java For Testers
 
-### Variable Declaration
-### Datatypes :
-  1. Primitive Datatypes
+### 1.Variable Declaration
+### 2.Datatypes :
+A)Primitive Datatypes
+B) Non-Primitive Datatypes
