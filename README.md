@@ -2,5 +2,8 @@
 
 ### 1.Variable Declaration
 ### 2.Datatypes :
-A)Primitive Datatypes
-B) Non-Primitive Datatypes
+  A)Primitive Datatypes
+  
+  B) Non-Primitive Datatypes
+
+### 3. Operators in Java
