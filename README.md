@@ -18,12 +18,12 @@
 
     B. Relational Operator >>
 
-      i. equal to 						
-		  ii. not equal to	
-		  iii. greater than		
-		  iv. greater than and equal to	
-		  v. less than						
-		  vi. less than and equal to	
+      i. equal to 
+      ii. not equal to
+      iii. greater than
+      iv. greater than and equal to	
+      v. less than
+      vi. less than and equal to	
 
 
     C. Assignment Operator >>
