@@ -28,20 +28,18 @@
 
     C. Assignment Operator >>
 
-
-      i. assignment 					
-		  ii. add and Assign			
-		  iii. sub and Assign						
-		  iv. div and assign				
-		  v. mul and assign				
-		  vi. module and assign			
+      i. assignment 
+      ii. add and Assign
+      iii. sub and Assign
+      iv. div and assign
+      v. mul and assign
+      vi. module and assign			
 
 
     D. Logical Operator
 
-
-    i. and operator			&&
-		ii. or operator			||
-		iii. not operator
+      i. and operator
+      ii. or operator
+      iii. not operator
 
 
