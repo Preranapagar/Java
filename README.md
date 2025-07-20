@@ -18,7 +18,6 @@
 
     B. Relational Operator >>
 
-
       i. equal to 						
 		  ii. not equal to	
 		  iii. greater than		
