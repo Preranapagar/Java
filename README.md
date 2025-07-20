@@ -8,12 +8,12 @@
 ### 3. Operators in Java:
     A. Arithemetic operator >>
 
-i. Addition 
-ii. Substraction 
-iii. Multiplication	
-iv. Division 
-v. Module vi. Increment	
-viii. Decrement		
+      i. Addition 
+      ii. Substraction 
+      iii. Multiplication	
+      iv. Division 
+      v. Module vi. Increment	
+      viii. Decrement		
 
 
     B. Relational Operator >>
