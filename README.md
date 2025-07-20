@@ -7,6 +7,8 @@
 
 ### 3. Operators in Java:
     A. Arithemetic operator >>
+
+
        i. Addition			
 			ii. Substraction		
 			iii. Multiplication	
@@ -17,6 +19,8 @@
 
 
     B. Relational Operator >>
+
+
       i. equal to 						
 		  ii. not equal to	
 		  iii. greater than		
@@ -27,6 +31,7 @@
 
     C. Assignment Operator >>
 
+
       i. assignment 					
 		  ii. add and Assign			
 		  iii. sub and Assign						
@@ -36,6 +41,7 @@
 
 
     D. Logical Operator
+    
 
     i. and operator			&&
 		ii. or operator			||
