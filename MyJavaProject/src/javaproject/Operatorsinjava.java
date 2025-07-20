@@ -135,6 +135,34 @@ public class Operatorsinjava {
 		p %= 30;
 		System.out.println(p);
 		
+		System.out.println("**************************************************************************");
+
+		System.out.println("4) Logical Operators");
+		
+		/*
+		 * there are 3 types Logical operators
+		 * 1) and operator			&&  >>if both condition are true then and then only result is true.
+		 * 2) or operator			||  >>if anyone condition is true then result is true
+		 * 3) not operator			!	>>if condition is true, not operator mark the result is fals
+		 * 								>>if condition is false, not operator mark the result is true
+		 */
+		
+		System.out.println(true&&true);
+		System.out.println(true&&false);//false
+		System.out.println(false&&true);//false
+		System.out.println(false&&false);//false
+		
+		
+		System.out.println(true || true);	//true
+		System.out.println(true || false);	//true
+		System.out.println(false || true);	//true
+		System.out.println(false || false);	//false
+
+		System.out.println(!true);
+
+		System.out.println(!false);
+
+		
 	}
 
 }
