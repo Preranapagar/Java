@@ -13,6 +13,11 @@ public class Demo2 {
 		System.out.println(c);
 		System.out.println(d);
 		
+		long e = 2341;
+		System.out.println(e);
+		
+		long k = 922337203877580863l;
+		System.out.println(k);
 		
 	}
 
