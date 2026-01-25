@@ -19,6 +19,8 @@ public class Demo2 {
 		Arrays.sort(xyz);
 		
 		System.out.println(Arrays.toString(xyz));
+		
+		
 
 	}
 }
