@@ -152,6 +152,8 @@ public class Demo4 {
 		
 		System.out.println(Arrays.toString(a4));
 		
+		System.out.println();
+		
 		
 	}
 
