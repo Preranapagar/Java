@@ -8,6 +8,14 @@ public class Demo9 {
 		
 		char[] abc = a.toCharArray();
 		
+		int len = abc.length -1;
+		
+		for(int i = len; i>=0; i--) {
+			
+			char b = abc[i];
+			System.out.print(b);
+		}
+		
 
 	}
 
