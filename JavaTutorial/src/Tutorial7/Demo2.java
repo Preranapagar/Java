@@ -13,8 +13,8 @@ public class Demo2 {
 		
 		Display();
 		
-		Demo2 obj = new Demo2();
-		obj.Display();
+
+		Demo2.Display();
 		
 
 	}

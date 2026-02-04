@@ -6,9 +6,9 @@ public class Demo2 {
 
 	public static void main(String[] args) {
 
-		ArrayList arr1 = new ArrayList();
+		ArrayList<Object> arr1 = new ArrayList<>();
 
-		ArrayList arr2 = new ArrayList();
+		ArrayList<Object> arr2 = new ArrayList<>();
 
 		System.out.println(arr1);
 		System.out.println(arr2);
@@ -46,7 +46,7 @@ public class Demo2 {
 		
 		System.out.println(arr1);
 		
-		ArrayList arr3 = new ArrayList();
+		ArrayList<Object> arr3 = new ArrayList<>();
 		
 		arr3.add(1);
 		arr3.add(10);

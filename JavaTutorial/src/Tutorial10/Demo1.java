@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Demo1 {
 	public static void main(String[] args) {
 
-		ArrayList arr = new ArrayList();
+		ArrayList<Object> arr = new ArrayList<>();
 
 		arr.add(100);
 		arr.add(true);
