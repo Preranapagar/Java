@@ -6,8 +6,8 @@ public class Demo5 {
 		
 		System.out.println("Main method started");
 		
-		Demo5 obj = new Demo5();
-		obj.display();
+		
+		Demo5.display();
 		
 		System.out.println("Main method ended");
 		
