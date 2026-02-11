@@ -26,6 +26,8 @@ public class Demo2 {
 		boolean a2 = s1.contains(null);
 		
 		System.out.println(a2);
+		
+		
 
 	}
 
