@@ -1,3 +1,2 @@
-2025/10/05-12:01:03.477 2754 Reusing MANIFEST C:\Users\Prerana\OneDrive\Documents\GitHub\Java\MyJavaProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2025/10/05-12:01:03.503 2754 Recovering log #3
-2025/10/05-12:01:03.514 2754 Reusing old log C:\Users\Prerana\OneDrive\Documents\GitHub\Java\MyJavaProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/000003.log 
+2026/05/12-10:41:21.293 5d24 Creating DB C:\Users\Prerana\OneDrive\Documents\GitHub\Java\MyJavaProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb since it was missing.
+2026/05/12-10:41:21.351 5d24 Reusing MANIFEST C:\Users\Prerana\OneDrive\Documents\GitHub\Java\MyJavaProject\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
